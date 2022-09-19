@@ -6,5 +6,14 @@ Arquivo de exemplo para o treinamento de git da Iteris!
 
 Colocar qualquer texto aqui.
 
+## Subtítulo
+
+Mais texto para colocar aqui.
+
+Alteração da develop
+
 Alteração para teste
-Alteracaçõ da main
+
+Alteração da main
+
+Criei uma tela de vendas e ela está funcional. Confia.
