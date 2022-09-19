@@ -15,3 +15,5 @@ Alteração da develop
 Alteração para teste
 
 Alteração da main
+
+Criei uma tela de vendas e ela está funcional. Confia.
