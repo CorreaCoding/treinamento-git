@@ -7,3 +7,4 @@ Arquivo de exemplo para o treinamento de git da Iteris!
 Colocar qualquer texto aqui.
 
 Alteração para teste
+Alteracaçõ da main
